@@ -1,3 +1,9 @@
+# This file is perfectly fine as it is — don't change
+# anything here (unless you're trying to break it to
+# see if your tests work)
+#
+# Also don't add any other files.
+
 class SecretDiary
   def initialize(diary)
     @diary = diary
