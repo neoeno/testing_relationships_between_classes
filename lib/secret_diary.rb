@@ -26,5 +26,6 @@ class SecretDiary
   def write(new_message)
     return "Go away!" unless @unlocked
     @diary.write(new_message)
+    nil
   end
 end
