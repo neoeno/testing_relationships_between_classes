@@ -27,7 +27,7 @@ Do:
 
 ## Check your work
 
-Remove lines 23 (`@diary.read`) and 28 (`@diary.write(new_message)`).
+Remove lines 23 (`@diary.read`) and 28 (`@diary.write(new_message)`) from lib/secret_diary.rb.
 
 Does SecretDiary still do what it's supposed to do?
 
